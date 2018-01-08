@@ -1,0 +1,6 @@
+C:\Users\Matija\Desktop\AdventOfCode\Day15\bin\Debug\Day15.exe.config
+C:\Users\Matija\Desktop\AdventOfCode\Day15\bin\Debug\Day15.exe
+C:\Users\Matija\Desktop\AdventOfCode\Day15\bin\Debug\Day15.pdb
+C:\Users\Matija\Desktop\AdventOfCode\Day15\obj\Debug\Day15.csproj.CoreCompileInputs.cache
+C:\Users\Matija\Desktop\AdventOfCode\Day15\obj\Debug\Day15.exe
+C:\Users\Matija\Desktop\AdventOfCode\Day15\obj\Debug\Day15.pdb
